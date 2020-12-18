@@ -14,3 +14,9 @@ Odobril in mergal Pull req. - Tevž
 
 ---------------------------------------------------
 
+Forkal repozitorij.
+
+Spremenil README.md
+
+Pull requestam še.
+                    -Nace
