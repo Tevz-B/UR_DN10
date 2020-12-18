@@ -1,6 +1,8 @@
 # UR_DN10
 Repozitorij za opravljanje domače naloge 10 pri Uvodu v računalništvo
 
+LOGS:
+
 Ustvaril sem repozitorij za DN. - Tevž
 
 Naredil program za deljenje z napako in naredil Pull request.
